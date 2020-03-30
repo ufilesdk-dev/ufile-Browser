@@ -5,4 +5,7 @@
 
    支持文件列表、删除、上传下载小文件（小于100M）
    
-   [下载地址]： https://github.com/ufilesdk-dev/ufile-Browser/releases
+   [下载地址]： https://github.com/ufilesdk-dev/ufile-Browser/releases   
+      
+      
+   ![Image text](https://raw.githubusercontent.com/ufilesdk-dev/ufile-Browser/master/UfileBrowser.png)
